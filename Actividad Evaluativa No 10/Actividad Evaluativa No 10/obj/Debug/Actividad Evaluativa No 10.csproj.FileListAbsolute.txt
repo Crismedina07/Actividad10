@@ -1,0 +1,8 @@
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\bin\Debug\Actividad Evaluativa No 10.exe.config
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\bin\Debug\Actividad Evaluativa No 10.exe
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\bin\Debug\Actividad Evaluativa No 10.pdb
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\obj\Debug\Actividad Evaluativa No 10.csproj.AssemblyReference.cache
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\obj\Debug\Actividad Evaluativa No 10.csproj.SuggestedBindingRedirects.cache
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\obj\Debug\Actividad Evaluativa No 10.csproj.CoreCompileInputs.cache
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\obj\Debug\Actividad Evaluativa No 10.exe
+D:\Users\crisr\Documents\GitHub\Actividad10\Actividad Evaluativa No 10\Actividad Evaluativa No 10\obj\Debug\Actividad Evaluativa No 10.pdb

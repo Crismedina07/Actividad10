@@ -8,9 +8,6 @@ namespace Actividad_Evaluativa_No_10
 {
     internal class Program
     {
-        
-
-
         static void Main(string[] args)
         {
             double salarioAnual = 0;
@@ -19,8 +16,8 @@ namespace Actividad_Evaluativa_No_10
             int caso = 0;
 
 
-            Console.Write("Ingrese su salario: ");
-            salarioMensual = float.Parse(Console.ReadLine());
+            Console.Write("Ingrese su salario mensual: ");
+            salarioMensual = double.Parse(Console.ReadLine());
             salarioAnual = salarioMensual * 12;
             double rentaAnual = 0;
 
@@ -56,11 +53,15 @@ namespace Actividad_Evaluativa_No_10
                         rentaAnual = (salarioAnual - 416220.01) * 0.15;
                         break;
                     case 3:
-                        double sueldo1 = (salarioAnual - 416220.01) * 0.15;
-                        double sueldo2 = (salarioAnual - 624329.01) * 0.20 + 31216.00;
-                        rentaAnual = sueldo1 + sueldo2;
+                        rentaAnual = (salarioAnual - 624329.01) * 0.20 + 31216.00;
+                        break;
+                    case 4:
+                        rentaAnual = (salarioAnual - 867123.01) * 0.25 + 79776.00;
                         break;
                 }
+                retencion = rentaAnual / 12;
+                Console.Write("La retención Mensual será de: " + retencion);
+                Console.ReadKey();
             }
 
 
